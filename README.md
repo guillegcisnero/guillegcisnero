@@ -2,7 +2,7 @@
 <div align="center">
   <!-- Si descargaste el banner que te mostré antes (watermarked_img_14945006051005169104.jpg), puedes arrastrarlo y soltarlo aquí para reemplazar esta línea -->
 
-  <h1>¡Hola! Soy Guillermo Cisnero 👋</h1>
+  <h1>¡Hola! Soy Guillermo Gomez Cisnero 👋</h1>
   <h3>Dev in the making ⚡</h3>
   
   <p><i>🧠 Actualmente sumergido en el universo de C y CS50.</i><br>
