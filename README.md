@@ -2,16 +2,16 @@
 <div align="center">
   <!-- Si descargaste el banner que te mostré antes (watermarked_img_14945006051005169104.jpg), puedes arrastrarlo y soltarlo aquí para reemplazar esta línea -->
 
-  <h1>¡Hola! Soy Guillermo Gomez Cisnero 👋</h1>
+  <h1> Hi! I am Guillermo Gomez Cisnero 👋</h1>
   <h3>Dev in the making ⚡</h3>
   
-  <p><i>🧠 Actualmente sumergido en el universo de C y CS50.</i><br>
-  <i>🚀 Desarmando problemas complejos, un punto y coma a la vez.</i></p>
+  <p><i>🧠 Currently immersed in the universe of C and CS50. </i><br>
+  <i>🚀 Breaking down complex problems, one semicolon at a time. </i></p>
 </div>
 
 ---
 
-### 🛠️ Mi Kit de Herramientas
+### 🛠️ My Toolkit
 <div align="center">
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c">
   <img src="https://img.shields.io/badge/VCS-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -21,13 +21,13 @@
 
 ---
 
-### 📊 Actividad en Código
+### 📊 GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guillegcisnero&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Guille">
 </div>
 
 ---
-### 📫 Conecta conmigo
+### 📫 Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/guillermo-gomez-cisnero-458b18441/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
